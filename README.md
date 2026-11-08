@@ -2,11 +2,17 @@
 
 An independent restoration and modernization of the ReadyMaker client by ready.io. The original layout is preserved while the client uses the hp's maker service configuration.
 
-This repository/release contains only the client installer. It does not include the server or moderator application, and it is not affiliated with or endorsed by ready.io.
+This repository contains the complete hp's maker client runtime. It does not include the server or moderator application, and it is not affiliated with or endorsed by ready.io.
 
 ## Install
 
-Use the Windows installer with an authorized ReadyMaker installation:
+Download the repository files, keep the folder structure intact, and launch `hp's maker.exe` on Windows. Git LFS must be enabled when cloning because Unity runtime assets are included.
+
+The previous client ZIP is also available in the repository for users who prefer a packaged download.
+
+The local `log.txt` file is intentionally not published because it contains machine-specific HWID and diagnostic data.
+
+For an installer, use an authorized ReadyMaker installation:
 
 ```powershell
 .\Install-HpMaker.ps1 -SourcePath "G:\ReadyMaker"
