@@ -28,5 +28,8 @@ The installer places the client in `%LOCALAPPDATA%\hp's maker` by default.
 
 ## Legal and privacy
 
-Only distribute ReadyMaker files when you own them or have permission from their copyright holder. Do not commit OAuth secrets, moderator tokens, or private account data.
 Feel free to make your own version/modifications, as this is **OPEN SOURCE!!**
+We do **NOT** distribute your GMail, your login credentials, or HWID.
+Violation of the rules of hp's maker will result in a ban. Any attempt to bypass a ban will result in you getting permanently Hardware-ID **[hwid]** banned.
+With love from <3 hpcomputers
+**OPEN SOURCE IS LOVE!**
