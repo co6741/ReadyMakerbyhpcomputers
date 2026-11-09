@@ -1,5 +1,6 @@
 # hp's maker — ReadyMaker restoration client
 <img width="1026" height="800" alt="20261109-2052-08 2379627" src="https://github.com/user-attachments/assets/183ebb99-c357-4fde-8ccf-8280faea37b8" />
+<img width="250" height="200" alt="518p9lZcWRL" src="https://github.com/user-attachments/assets/958258c9-1c1d-4465-a4c1-e1cb43ee1454" />
 
 An independent restoration and modernization of the ReadyMaker client by ready.io. The original layout is preserved while the client uses the hp's maker service configuration.
 
@@ -61,3 +62,15 @@ To ensure a safe and creative environment for everyone using hp's maker, all pub
 ___________________________________________________________________________________
 With love from <3 hpcomputers
 **OPEN SOURCE IS LOVE!**
+____________________________________________________________________________________
+
+From ReadyMaker's official website, now long gone
+"Ready is an open-ended software creator that teaches anyone to create games, apps, and software without any previous coding experience.
+
+Afraid of coding but want to learn? Then Ready is for you. Built on Unity3D - a professional game engine - Ready designed to teach you how to “think in code” through an accessible visual interface. Your projects can then be played on iPad, Mac, and PC.
+
+Choose from a library of hundreds of objects, programmatic behaviors like “bullet” and “tilt to move”, along with special effects. Coding becomes simple-- “WHEN this happens, DO this”-- accessible to just about anyone. And if you already know how to code, push the app to its limits and make some awesome “ready made” scenes to show off. You’ll be amazed at how much fun Ready is.
+
+Come build and explore new worlds!
+
+**_Are you Ready?_**"
