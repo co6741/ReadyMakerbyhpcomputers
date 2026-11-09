@@ -1,6 +1,7 @@
-# hp's maker — ReadyMaker restoration client
+# hp's maker — ReadyMaker restoration client <img width="100" height="100" alt="518p9lZcWRL" src="https://github.com/user-attachments/assets/3d77a3dd-3f1d-4d7a-9d5d-e30966d933dd" />
+
 <img width="1026" height="800" alt="20261109-2052-08 2379627" src="https://github.com/user-attachments/assets/183ebb99-c357-4fde-8ccf-8280faea37b8" />
-<img width="250" height="200" alt="518p9lZcWRL" src="https://github.com/user-attachments/assets/958258c9-1c1d-4465-a4c1-e1cb43ee1454" />
+
 
 An independent restoration and modernization of the ReadyMaker client by ready.io. The original layout is preserved while the client uses the hp's maker service configuration.
 
