@@ -38,7 +38,7 @@ https://hp-maker-server.compep211.workers.dev/integrations - **Intergrations [wa
 https://hp-maker-server.compep211.workers.dev/account - **Account Configuration**
 https://hp-maker-server.compep211.workers.dev/home - **_Main home page of hp's maker. Replaced all dead links in original ReadyMaker, works with these worker links._**   
 _______________________________________________________________________________
-**Privacy
+**Privacy -
 hp's maker stores only the account and project data needed to provide the app.
 We do **NOT** distribute your GMail, your login credentials, or HWID.**
 _______________________________________________________________________________
